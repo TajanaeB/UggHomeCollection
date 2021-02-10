@@ -1,0 +1,19 @@
+.text-left {
+    font-weight: bold;
+    margin-left: 50px;
+    font-size: x-large;
+}
+
+.home {
+    color: black;
+    font-style: italic;
+}
+
+#basic-nav-dropdown {
+    color: black;
+}
+
+#right-nav-dropdown {
+    border: solid black 1px;
+    color: black;
+}

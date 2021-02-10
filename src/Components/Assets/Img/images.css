@@ -1,0 +1,15 @@
+.pics {
+    display: table-row;
+    flex-wrap: wrap;
+    
+}
+
+.throw {
+    font-weight: bolder;
+    color: black;
+}
+
+.price {
+    font-weight: bold;
+    color: black;
+}
